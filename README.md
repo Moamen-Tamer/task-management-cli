@@ -202,9 +202,3 @@ This project is open source and available under the MIT License.
 **Mo'men Tamer** - [LinkedIn link](www.linkedin.com/in/mo-men-tamer-86a57b336)
 
 Project Link: [Repo's Link](https://github.com/Moamen-Tamer/task-management-cli)
-
----
-
-⭐ If you found this helpful for learning TypeScript, feel free to star the repository!
-
-*Built with ❤️ while learning TypeScript*
