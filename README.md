@@ -159,8 +159,8 @@ Key settings used:
 
 ```json
 "scripts": {
-  "build": "tsc",              // Compile TypeScript
-  "start": "node dist/cli.js", // Run compiled code
+  "build": "tsc",                  // Compile TypeScript
+  "start": "node dist/cli.js",     // Run compiled code
   "dev": "tsc && node dist/cli.js" // Build and run
 }
 ```
